@@ -1,2 +1,2 @@
 # mini-randomize-game
-My first Python program
+My first Python program.
